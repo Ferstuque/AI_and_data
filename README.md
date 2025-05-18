@@ -2,7 +2,7 @@
 
 This repository contains applications and Google Colab notebooks and resources focused on Artificial Intelligence (AI) and data science projects.
 
-## Notebooks
+## Application
 
 ### [Ai-Powered Data Parsing](https://huggingface.co/spaces/Feralves/data_parsing)
 
@@ -86,6 +86,8 @@ Para opções de configuração mais avançadas e detalhes sobre os Spaces do Hu
 
 
 ________________________________
+
+## Notebook
 
 ### `LLM - GPT2 - Fine-Tuning - HuggingFace dataset.ipynb`
 
